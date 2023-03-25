@@ -1,10 +1,10 @@
 ![](https://www.tecnm.mx/assets/files/main/img/pleca_tecnm.jpg?img=40) ![](https://www.tecnm.mx/assets/files/main/img/pleca-gob2.png) ![](https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg)
 
-# Tecnológico   Nacional   de   México 
+# (Tecnológico   Nacional   de   México 
  Instituto Tecnológico de Tijuana
  Subdirección Académica 
  
-Departamento de Sistemas y Computación
+Departamento de Sistemas y Computación)
 
 SEMESTRE:
 ENE - JUN 2023
