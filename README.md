@@ -1,10 +1,10 @@
 ![](https://www.tecnm.mx/assets/files/main/img/pleca_tecnm.jpg?img=40) ![](https://www.tecnm.mx/assets/files/main/img/pleca-gob2.png) ![](https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg)
 
-<em> #Tecnológico   Nacional   de   México <em>
+# Tecnológico   Nacional   de   México 
 
- <em> # Instituto Tecnológico de Tijuana <em>
+# Instituto Tecnológico de Tijuana
 
-<em> # Subdirección Académica <em>
+# Subdirección Académica 
  
 Departamento de Sistemas y Computación
 
