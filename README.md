@@ -1,4 +1,4 @@
-<h3 align="center"> ![](https://www.tecnm.mx/assets/files/main/img/pleca_tecnm.jpg?img=40) ![](https://www.tecnm.mx/assets/files/main/img/pleca-gob2.png) ![](https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg) </h3>
+ ![](https://www.tecnm.mx/assets/files/main/img/pleca_tecnm.jpg?img=40) ![](https://www.tecnm.mx/assets/files/main/img/pleca-gob2.png) ![](https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg) 
 
 
  <h3 align="center"> Tecnológico   Nacional   de   México  Instituto Tecnológico de Tijuana  Subdirección Académica  </h3>
