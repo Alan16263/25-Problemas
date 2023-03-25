@@ -1,5 +1,7 @@
 Tecnológico   Nacional   de   México
+
 Instituto Tecnológico de Tijuana
+
 Subdirección Académica 
  
 Departamento de Sistemas y Computación
